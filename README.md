@@ -34,10 +34,19 @@ I'm currently open to **remote internships and collaborative research roles**, e
 ---
 
 ## Tech Stack  
-**Languages**: Python, MATLAB, C++, SQL, Bash  
-**Frameworks**: PyTorch, Scikit-learn, Apache Spark, HuggingFace  
-**Infra**: Google Colab, Git, Notion
-**Applied Concepts**: GMMs, LoRA, RF Signal Analysis, Quantum Info  
+
+**Languages**  
+Python, MATLAB, C++, SQL, Bash, LATEX
+
+**Frameworks & Libraries**  
+PyTorch, Scikit-learn, Apache Spark, HuggingFace Transformers, XGBoost, NumPy, Pandas, Matplotlib, Seaborn, OpenCV
+
+**Infrastructure & Tools**  
+Google Colab, Jupyter, Git, GitHub, Notion, VS Code, GNU Radio, ROS
+
+**Applied Concepts**  
+Artificial Neural Networks (ANNs), Variational Autoencoders (VAEs), Gaussian Mixture Models (GMMs), Low-Rank Adaptation (LoRA), Retrieval-Augmented Generation (RAG), Signal Processing, SDR, GradCAM, MinHash & LSH, Quantum Information Theory, Time Series Forecasting, Risk Modeling
+  
 
 ---
 
