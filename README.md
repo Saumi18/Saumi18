@@ -28,9 +28,11 @@ I'm currently open to **remote internships and collaborative research roles**, e
 
 | Project         | Description  | Stack |
 |----------------|--------------|-------|
+| NeoGraphDB      | In-memory graph database inspired by Neo4j, built for scalable, high-performance graph data management and flexible query-based operations | C++, Data Structures, OOP, Algorithms, Graph Databases |
 | CreditScoreAI   | Behavioral scoring model to predict credit card user risk profiles using transactional patterns | Python, Scikit-learn, Pandas, XGBoost |
 | Music Genre Classifier | Music genre classification using GMM & ANN from scratch | NumPy, PyTorch |
 | SignalSight     | Dataset generation & classification of 20+ RF signals with explainable AI | MATLAB, Python, GNU Radio, PyTorch, GradCam |
+
 ---
 
 ## Tech Stack  
