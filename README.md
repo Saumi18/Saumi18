@@ -9,7 +9,7 @@ I’m an undergraduate at **IIT Jodhpur**, pursuing Electrical Engineering with 
 
 I love working on interdisciplinary problems that blend theory with engineering — whether it's training machine learning models from scratch, decoding brain signals, modeling credit risk, or building explainable AI systems for communication signals.
 
-My curiosity spans across **Signal Processing**, **AI/ML**, **Neurobionics**, **Finance**, **Quantum Communication**, and **Cybersecurity** — and I’m always excited to work on projects that challenge conventional thinking.
+My curiosity spans across **Signal Processing**, **AI/ML**, **Software Developement & system Design**, **Finance**, **Quantum Communication**, and **Cybersecurity** — and I’m always excited to work on projects that challenge conventional thinking.
 
 I'm currently open to **remote internships and collaborative research roles**, especially in areas like machine learning, applied AI, and emerging tech.
 
