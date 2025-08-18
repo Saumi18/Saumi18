@@ -1,6 +1,6 @@
 # Saumitra Kulkarni — Exploring Intelligence Through Code  
 B.Tech in Electrical Engineering  
-Generative AI · Quantum Communication · Signal Processing · Cryptography · Quantitative Finance & Business · Neurobionics
+Generative AI · Quantum Communication · Software Developement · Cryptography · Quantitative Finance & Business · Signal Processing
 
 ---
 
