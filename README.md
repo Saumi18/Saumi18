@@ -1,6 +1,6 @@
 # Saumitra Kulkarni — Exploring Intelligence Through Code  
 B.Tech in Electrical Engineering  
-Generative AI · Quantum Communication · Software Developement · Cryptography · Quantitative Finance & Business · Signal Processing
+Data Science · Cloud Engineering · Quantum Communication · Software Developement · Cryptography · Quantitative Finance & Business · Signal Processing
 
 ---
 
@@ -16,11 +16,11 @@ I'm currently open to **remote internships and collaborative research roles**, e
 ---
 
 ## Areas of Focus  
-- Generative Models & LLMs (VAE, ANN, t-SNE, LoRA, Retrieval-Augmented Gen AI)
+- Software Engineering & Competitive Programming (DSA, Algorithms, Problem Solving, System Design)
 - Signal Processing & Communication (MATLAB, SDR) 
 - Quantum Information, Communication & Cryptography 
 - Quantitative Finance & Business Intelligence (Time Series, Risk Modeling, Market Microstructure)  
-- Neurobionics & Brain-Computer Interfaces (Neural Decoding, Prosthetic Control, EEG)
+- Data Science & Cloud Engineering (Machine Learning, Big Data, Scalable Pipelines)
 
 ---
 
