@@ -53,8 +53,7 @@ Artificial Neural Networks (ANNs), Variational Autoencoders (VAEs), Gaussian Mix
 ---
 
 ## Reach Out  
-🔗 [LinkedIn](https://www.linkedin.com/in/saumitra-kulkarni)  
-📁 [GitHub](https://github.com/Saumi18)
+🔗 [LinkedIn](https://www.linkedin.com/in/saumitra-kulkarni)
 📬 [Email](saumitra18kulkarni2005@gmail.com) 
 
 _“Each day, the known intertwines with the unknown, forging the man I strive to become...”_
