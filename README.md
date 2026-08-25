@@ -101,18 +101,12 @@ Currently raising ravens for **remote internships & research collaborations** in
 ### 📜 The Ledger (GitHub Stats)
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saumi18&show_icons=true&theme=dark&hide_border=true&title_color=C9A24B&icon_color=C9A24B&text_color=E8D9B5&bg_color=0B0C10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumi18&layout=compact&hide_border=true&title_color=C9A24B&text_color=E8D9B5&bg_color=0B0C10"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Saumi18&show_icons=true&theme=dark&hide_border=true&title_color=C9A24B&icon_color=C9A24B&text_color=E8D9B5&bg_color=0B0C10"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saumi18&layout=compact&hide_border=true&title_color=C9A24B&text_color=E8D9B5&bg_color=0B0C10"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Saumi18&hide_border=true&background=0B0C10&stroke=C9A24B&ring=6B1E23&fire=C9A24B&currStreakLabel=E8D9B5&sideLabels=E8D9B5&dates=E8D9B5" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </div>
 
 ### 🐦‍⬛ Reach Out
