@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&duration=3400&pause=1100&color=E8D9B5&center=true&vCenter=true&multiline=true&width=850&height=150&lines=B.Tech+in+Electrical+Engineering%2C+IIT+Jodhpur;Software+Engineering+%C2%B7+Systems+Design+%C2%B7+DSA;Multi-Agent+Systems+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Computer+Vision;Quantitative+Finance+%C2%B7+Time-Series+%C2%B7+Risk+Modeling;FPGA+%C2%B7+Signal+Processing+%C2%B7+Embedded+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&duration=2000&pause=300&color=E8D9B5&center=true&vCenter=true&multiline=true&width=850&height=150&lines=B.Tech+in+Electrical+Engineering%2C+IIT+Jodhpur;Software+Engineering+%C2%B7+Systems+Design+%C2%B7+DSA;Multi-Agent+Systems+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Computer+Vision;Quantitative+Finance+%C2%B7+Time-Series+%C2%B7+Risk+Modeling;FPGA+%C2%B7+Signal+Processing+%C2%B7+Embedded+Systems" alt="Typing SVG" />
 
 <br/>
 
