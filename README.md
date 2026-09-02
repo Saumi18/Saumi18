@@ -69,9 +69,6 @@ I treat every project like a small holdfast that needs defending: the code has t
 <tr><td width="45%"><b>🐦‍⬛ RepoMind</b></td><td>A multi-agent copilot that answers questions across a real codebase, its docs, and its issue history. A router agent picks between a code-search agent, a docs agent, and an issue-history agent, then a synthesis agent flags when the code and the documentation disagree.</td></tr>
 <tr><td><code>LangGraph</code> <code>tree-sitter</code> <code>FAISS</code> <code>FastAPI</code></td><td></td></tr>
 <tr><td colspan="2"><hr></td></tr>
-<tr><td width="45%"><b>🧮 FPGA Real-Time Image Accelerator</b></td><td>Pipelined image-processing accelerator on FPGA reaching about 120 FPS at 1080p, roughly 90 percent hardware utilization, and stable timing closure above 100 MHz, with UART and SPI interfacing.</td></tr>
-<tr><td><code>Verilog / VHDL</code> <code>Xilinx FPGA</code> <code>FSM Design</code></td><td></td></tr>
-<tr><td colspan="2"><hr></td></tr>
 <tr><td width="45%"><b>🕸️ NeoGraphDB</b></td><td>In-memory graph database with a custom query execution engine, supporting 10K+ nodes and edges at sub-50ms query latency.</td></tr>
 <tr><td><code>C++</code> <code>Data Structures</code> <code>Query Engines</code></td><td></td></tr>
 <tr><td colspan="2"><hr></td></tr>
